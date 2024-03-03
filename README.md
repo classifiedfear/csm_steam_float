@@ -1,8 +1,3 @@
-Professional experience.
-Здесь более детально стоит описать назначение проектов и используемых в них технологий.
-Например:
-
-CsmSteamFloat Telegram bot (https://github.com/classifiedfear/csm_steam_float)
 The purpose of this bot is to let people track certain types of information in the game Counter Strike 2 and compare it with such on external marketplaces.
 
 Its architecture takes inspiration from the microservice architecture, the parts are meant to run in containers.
